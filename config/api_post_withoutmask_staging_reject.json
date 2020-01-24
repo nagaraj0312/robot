@@ -1,0 +1,11 @@
+{
+    "idType" : 1,
+    "employee" : 16,
+    "documentNo" : "NPR44578",
+    "nameAsPerDoc" : "Rami Reddy",
+    "ifscCode" : "",
+    "expiryDate": "2022-01-01T00:00:00",
+    "verified": true,
+    "verifiedDate": "2019-01-25T00:05:30",
+    "source": "data-drive:reference"
+}

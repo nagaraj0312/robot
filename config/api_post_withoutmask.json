@@ -1,0 +1,13 @@
+{
+	"idType" : 6,
+	"employee" : 17,
+	"documentNo" : "KA05 255455",
+	"nameAsPerDoc" : "Shruthi Shetty",
+	"ifscCode" : "",
+	"expiryDate": "2022-01-01T00:00:00",
+	"verified": true,
+	"verifiedDate": "2019-02-25T00:05:30",
+	"enableMasking": true
+}
+
+
